@@ -1,3 +1,4 @@
+# Histogram
 import matplotlib.pyplot as plt
 
 # Sample data (Student Marks)

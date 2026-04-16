@@ -1,3 +1,4 @@
+# Simple Linear Regression using Scikit-learn
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -19,7 +20,7 @@ X_train, X_test, Y_train, Y_test = train_test_split(
 model = LinearRegression()
 model.fit(X_train, Y_train)
 
-Y_pred = model.predict(X_test)
+#Y_pred = model.predict(X_test)
 
 print("Slope:", model.coef_)
 print("Intercept:", model.intercept_)

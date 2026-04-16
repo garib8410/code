@@ -1,5 +1,6 @@
+# Simple Linear Regression Implementation
 x = [1, 2, 3, 4, 5]
-y = [2, 4, 5, 4, 5]
+y = [1,2,3,4,5]
 
 n = len(x)
 x_mean = sum(x) / n

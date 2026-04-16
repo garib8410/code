@@ -1,3 +1,4 @@
+# Linear Regression to plot
 import matplotlib.pyplot as plt
 
 # Given data
